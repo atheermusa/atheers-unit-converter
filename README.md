@@ -14,7 +14,7 @@ to run the package enter the following into terminal (from anywhere)
 
 **convert**
 
-NPM package can be found online [here](https://www.npmjs.com/package/atheers-unit-converter, "atheers-unit-converter - npmjs")
+NPM package can be found online [here](https://www.npmjs.com/package/atheers-unit-converter "atheers-unit-converter - npmjs")
 
 ### Supported Conversions
 
