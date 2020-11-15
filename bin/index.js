@@ -32,7 +32,7 @@ console.log(
     )
 );
 console.log(
-    "To carry out a conversion simply trype the conversion you would like to make"
+    "To carry out a conversion simply enter the conversion you would like to make"
 )
 console.log(
     "Example: 33 m in cm"

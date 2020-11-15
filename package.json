@@ -1,6 +1,6 @@
 {
   "name": "atheers-unit-converter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a simple unit converter",
   "main": "bin/index.js",
   "bin": {
