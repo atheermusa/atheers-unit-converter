@@ -27,4 +27,8 @@ describe('converterFunc', () => {
     it('should return a string', () => {
         expect(converterFunc("5 m in cm")).to.be.a('string', '500 cm')
     })
+
+    it('should return an error message if input is wrong format', () => {
+        expect(converterFunc("I want to convert 33 GB into KB")).to.be.a('string', 'Error! This unit is not currerntly supported. Please try again.')
+    })
 })

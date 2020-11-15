@@ -1,6 +1,6 @@
 {
   "name": "atheers-unit-converter",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "This is a simple unit converter",
   "main": "bin/index.js",
   "bin": {
@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
-    "lodash": "^4.17.20",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
