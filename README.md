@@ -2,6 +2,8 @@
 
 This is a simple CLI that allows users to convert measurements into different units.
 
+![screenshot of CLI](https://res.cloudinary.com/dl4pcxjxz/image/upload/v1605443455/Screenshot_2020-11-15_at_12.29.28_dyhrhd.png "A screenshot of atheers-unit-converter")
+
 ## Install/Run Instructions
 
 to install this package globally, enter the following into terminal 
