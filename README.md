@@ -2,7 +2,7 @@
 
 This is a simple CLI that allows users to convert measurements into different units.
 
-![screenshot of CLI](https://res.cloudinary.com/dl4pcxjxz/image/upload/v1605444309/Screenshot_2020-11-15_at_12.44.03_d3xosw.png "A screenshot of atheers-unit-converter")
+![screenshot of CLI](https://res.cloudinary.com/dl4pcxjxz/image/upload/v1605444582/Screenshot_2020-11-15_at_12.49.29_hbrufj.png "A screenshot of atheers-unit-converter")
 
 ## Install/Run Instructions
 
