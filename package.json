@@ -1,0 +1,26 @@
+{
+  "name": "atheers-unit-converter",
+  "version": "1.0.3",
+  "description": "This is a simple unit converter",
+  "main": "bin/index.js",
+  "bin": {
+    "convert": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "nyc --reporter=text-summary mocha --reporter=nyan --bail"
+  },
+  "keywords": [],
+  "author": "Atheer Musa",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.20",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "rewire": "^5.0.0"
+  }
+}
